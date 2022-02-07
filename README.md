@@ -7,3 +7,5 @@ El repositorio viene dividido por procesos para llevar a cabo la implementación
 * Segundo extracción de entidades y relaciones mediante al utilización de Spacy.
 * Tercero extracción de recusos de DBPedia y conceptos SKOS.
 * Cuarto utilización de los distintos índices creados en GraphDB
+## Datos
+* Se comprimio el archivo RDF (.nt) y el archivo (.tsv).
