@@ -6,6 +6,6 @@ El repositorio viene dividido por procesos para llevar a cabo la implementación
 * Primero la extracción de metadatos del Grafo de conocimiento de “Scholarly Data”.
 * Segundo extracción de entidades y relaciones mediante al utilización de Spacy.
 * Tercero extracción de recursos de DBPedia y conceptos SKOS.
-* Cuarto utilización de los distintos índices creados en GraphDB
+* Cuarto utilización de los distintos índices creados en GraphDB.
 ## Datos
 * Se comprimio el archivo RDF (.nt), el archivo (.tsv) y un SQL con toda la información de la base de datos utilizada en este proyecto.
